@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.newsmobi"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>PhoneGap Newsmobi</name>
+
+  <description>
+      A basic ionic5 news aggregator application.
+  </description>
+
+  <author href="https://adsstudios.com.ng" email="henryalabi247@yahoo.com">
+      henry alabi
+  </author>
+
+</widget>
